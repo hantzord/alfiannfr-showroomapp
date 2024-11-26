@@ -1,0 +1,5 @@
+biodata
+
+Nama	: Alfian Nur Fazar Rizky
+Kelas	: 4IA22
+NPM	: 50421112
